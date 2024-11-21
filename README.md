@@ -1,6 +1,6 @@
 # EXP-6---Matrix-multiplication-using-cuBLAS-in-CUDA-C-
-<h3>NAME:Vidya Neela M</h3> 
-<h3>REGISTER NO:212221230120</h3> 
+<h3>NAME:SV ROHITHKUMAR</h3> 
+<h3>REGISTER NO:212221230084</h3> 
 <h3>EX. NO:06</h3> 
 <h3>DATE:</h3>
 
